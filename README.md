@@ -25,14 +25,13 @@ I am a Quantitative Investment Developer from Thailand.
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tongtanapat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tongtanapat/)
 ---
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
 </div>
 
 ### 🥇: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=popquants
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=popquants&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+https://github-readme-streak-stats.herokuapp.com/?user=popquants[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=popquants&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popquants)](https://github.com/popquants/github-readme-stats)
 
