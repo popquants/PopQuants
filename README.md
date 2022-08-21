@@ -22,7 +22,8 @@ I am a Quantitative Investment Developer from Thailand.
 
 - ⏫: In my free time, I read the financial books and searching for Alpha strategy from academic paper and Quantitative articles.
 
-- 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-tongtanapat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tongtanapat/)
+- 📫:How to reach me: 
+[![Linkedin Badge](https://img.shields.io/badge/-tongtanapat-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tongtanapat/)
 ---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
